@@ -1,11 +1,11 @@
 # Chatterbox TTS API
 
 <p align="center">
-	<a href="https://github.com/travisvn/chatterbox-tts-api">
+	<a href="https://github.com/Prathat2006/chatterbox-tts-api">
 		<img src="https://img.shields.io/github/stars/travisvn/chatterbox-tts-api?style=social" alt="GitHub stars"></a>
-	<a href="https://github.com/travisvn/chatterbox-tts-api">
+	<a href="https://github.com/Prathat2006/chatterbox-tts-api">
 		<img alt="GitHub forks" src="https://img.shields.io/github/forks/travisvn/chatterbox-tts-api"></a>
-	<a href="https://github.com/travisvn/chatterbox-tts-api/issues">
+	<a href="https://github.com/Prathat2006/chatterbox-tts-api/issues">
 	  <img src="https://img.shields.io/github/issues/travisvn/chatterbox-tts-api" alt="GitHub issues"></a>
 	<img src="https://img.shields.io/github/last-commit/travisvn/chatterbox-tts-api?color=red" alt="GitHub last commit">
   <a href="http://chatterboxtts.com/discord">
@@ -1121,4 +1121,4 @@ To use Chatterbox TTS API with Open WebUI, follow these steps:
   <img src="https://lm17s1uz51.ufs.sh/f/EsgO8cDHBTOUjUe3QjHytHQ0xqn2CishmXgGfeJ4o983TUMO" alt="Settings to integrate Chatterbox TTS API with Open WebUI" />
 </p>
 
-### ➡️ View the [Open WebUI docs for installing Chatterbox TTS API](https://docs.openwebui.com/tutorials/text-to-speech/chatterbox-tts-api-integration)
+### ➡️ View the [Open WebUI docs for installing Chatterbox TTS API](https://docs.openwebui.com/tutorials/text-to-speech/chatterbox-tts-api-integration
